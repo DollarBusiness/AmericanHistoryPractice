@@ -9,7 +9,7 @@ string answer;
 int sum = 0;
 
 
-// This project will be a history lesson program on Union vs Confederate fags + facts during it.
+// This project will be a history lesson program on Union vs Confederate + facts during it.
 int main()
 {
     cout << "*******************************************************************" << endl;
